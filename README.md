@@ -1,4 +1,4 @@
-### Hi there 👋
+# "Hello haegomm world" :earth_asia:
 
 <!--
 **haegomm/haegomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###### haegomm == 해곰 == 행복한 고모 :yellow_heart:
+
+<br/><br/>
+
+### :octocat: My tech stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haegomm&show_icons=true&theme=radical)
