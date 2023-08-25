@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 |------|---|---|---|---|
 |heart-ing 하팅!|다양한 감정의 메시지를 전달하는 익명 메시지 서비스|FE|SSAFY|2023.04 ~ 2023.05|
 |HWILytic 휘리릭|쉽고 꾸준하게 작사 연습을 할 수 있는 서비스|FE|SSAFY|2023.02 ~ 2023.04|
-|SonGeoreum 손걸음|게임으로 재미있게 배우는 기초 수어 교육 서비스|FE|SSAFY|2023.01 ~ 2023.02|
+|SonGeoreum 손:걸음|게임으로 재미있게 배우는 기초 수어 교육 서비스|FE|SSAFY|2023.01 ~ 2023.02|
 
 <br>
 
