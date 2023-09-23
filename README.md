@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## 🏃 Experience
+## 🏃 Experiences
 
 * [2023.06 - ing] FrontEnd 스터디
 * [2022.07 - 2023.06] 삼성 SW 아카데미 8기
