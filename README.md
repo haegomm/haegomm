@@ -33,16 +33,29 @@ Here are some ideas to get you started:
 
 <br>
 
+## 🏃 Experience
+
+* [2023.06 - ing] FrontEnd 스터디
+* [2022.07 - 2023.06] 삼성 SW 아카데미 8기
+* [2021.08 - 2021.12] 멋쟁이 사자처럼 직장인 4기
+
 ## ⚔️ Tech Stack
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Rcoil-3578E5?style=flat&logo=recoil&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Vuex-4FC08D?style=flat&logo=vuedotjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=styledcomponents&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/></a>
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
 
