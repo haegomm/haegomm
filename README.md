@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 * [2022.07 - 2023.06] 삼성 SW 아카데미 8기
 * [2021.08 - 2021.12] 멋쟁이 사자처럼 직장인 4기
 
+<br>
+
 ## ⚔️ Tech Stack
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
