@@ -15,32 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ❣️ Projects
-
-|프로젝트 명|설명|역할|소속|기간|
-|------|---|---|---|---|
-|heart-ing 하팅!|다양한 감정의 메시지를 전달하는 익명 메시지 서비스|FE|SSAFY|2023.04 ~ 2023.05|
-|HWILytic 휘리릭|쉽고 꾸준하게 작사 연습을 할 수 있는 서비스|FE|SSAFY|2023.02 ~ 2023.04|
-|SonGeoreum 손:걸음|게임으로 재미있게 배우는 기초 수어 교육 서비스|FE|SSAFY|2023.01 ~ 2023.02|
-
-<br>
-
-## 🏆 Awards
-
-* 삼성 청년 SW 아카데미_자율 프로젝트 **최우수**
-* 삼성 청년 SW 아카데미_특화(빅데이터 분산) 프로젝트 **우수**
-* 삼성 청년 SW 아카데미_공통(Web RTC) 프로젝트 **우수**
-
-<br>
-
-## 🏃 Experiences
-
-* [2023.06 - ing] CS 스터디
-* [2022.07 - 2023.06] 삼성 SW 아카데미 8기
-* [2021.08 - 2021.12] 멋쟁이 사자처럼 직장인 4기
-
-<br>
-
 ## ⚔️ Tech Stack
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
@@ -65,3 +39,30 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/></a>
+
+<br>
+
+## ❣️ Projects
+
+|프로젝트 명|설명|역할|소속|기간|
+|------|---|---|---|---|
+|heart-ing 하팅!|다양한 감정의 메시지를 전달하는 익명 메시지 서비스|FE|SSAFY|2023.04 ~ 2023.05|
+|HWILytic 휘리릭|쉽고 꾸준하게 작사 연습을 할 수 있는 서비스|FE|SSAFY|2023.02 ~ 2023.04|
+|SonGeoreum 손:걸음|게임으로 재미있게 배우는 기초 수어 교육 서비스|FE|SSAFY|2023.01 ~ 2023.02|
+
+<br>
+
+## 🏆 Awards
+
+* 삼성 청년 SW 아카데미_자율 프로젝트 **최우수**
+* 삼성 청년 SW 아카데미_특화(빅데이터 분산) 프로젝트 **우수**
+* 삼성 청년 SW 아카데미_공통(Web RTC) 프로젝트 **우수**
+
+<br>
+
+## 🏃 Experiences
+
+* [2023.06 - ing] CS 스터디
+* [2022.07 - 2023.06] 삼성 SW 아카데미 8기
+* [2021.08 - 2021.12] 멋쟁이 사자처럼 직장인 4기
+
